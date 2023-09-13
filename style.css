@@ -1,0 +1,20 @@
+.table-moda-descrição{
+    background-color: #BB86FC;
+}
+.table-casa-descrição{
+    background-color: #00C4B4;
+   
+}
+
+.moda th, 
+.moda td,
+.casa th,
+.casa td {
+    padding: 5px;
+}
+
+.table-moda-produto,
+.table-casa-produto {
+    background-color: #424250;
+    color: #FFFFFF;    
+}
